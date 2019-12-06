@@ -38,6 +38,5 @@ module.exports = {
         }else{
             return res.send("Username/Password is Wrong!");
         }
-
     }
 }
